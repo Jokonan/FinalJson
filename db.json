@@ -25,6 +25,34 @@
     "Price":"499990",
     "Manufacturer":"SHARP"
   }
-]
+],
+  "Microwaves":[
+    {
+      "Name":"MG23K3575AK",
+      "Price":"60800",
+      "Manufacturer":"Samsung"
+    },
+    {
+      "Name":"R7852RSL",
+      "Price":"69200",
+      "Manufacturer":"Sharp"
+    },
+    {
+      "Name":"MS23F301TAW",
+      "Price":"48 700",
+      "Manufacturer":"Samsung"
+    },
+    {
+      "Name":"R2800RSL",
+      "Price":"43 990",
+      "Manufacturer":"Sharp"
+    },
+    {
+      "Name":"GO-E845GBI",
+      "Price":"30 900",
+      "Manufacturer":"Ardesto"
+    },
+  ]
+  
   
 }
