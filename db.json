@@ -25,5 +25,59 @@
     "Price":"499990",
     "Manufacturer":"SHARP"
   }
-]
+],
+  "Microwaves":[
+    {
+      "Name":"MG23K3575AK",
+      "Price":"60800",
+      "Manufacturer":"Samsung"
+    },
+    {
+      "Name":"R7852RSL",
+      "Price":"69200",
+      "Manufacturer":"Sharp"
+    },
+    {
+      "Name":"MS23F301TAW",
+      "Price":"48 700",
+      "Manufacturer":"Samsung"
+    },
+    {
+      "Name":"R2800RSL",
+      "Price":"43 990",
+      "Manufacturer":"Sharp"
+    },
+    {
+      "Name":"GO-E845GBI",
+      "Price":"30 900",
+      "Manufacturer":"Ardesto"
+    },
+  ],
+  "Washing Machines":[
+    {
+      "Name":"F1296NDS3",
+      "Price":"150 900",
+      "Manufacturer":"LG"
+    },
+    {
+      "Name":"Mars 48",
+      "Price":"99 990",
+      "Manufacturer":"Skyworth"
+    },
+    {
+      "Name":"Mars 15",
+      "Price":"114 990",
+      "Manufacturer":"Skyworth"
+    },
+    {
+      "Name":"ES-F760CX-WH",
+      "Price":"158 900",
+      "Manufacturer":"SHARP"
+    },
+    {
+      "Name":"BWSE 81082",
+      "Price":"130 800",
+      "Manufacturer":"Indesit"
+    }
+  ]
 }
