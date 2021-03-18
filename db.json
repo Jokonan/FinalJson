@@ -1,1 +1,29 @@
-
+{
+"Refriegerators":[
+  {
+    "Name":"DS 4180 E",
+    "Price":"144400",
+    "Manufacturer":"Indesit"
+  },
+  {
+    "Name":"ХМ-4624-141",
+    "Price":"158900",
+    "Manufacturer":"Atlant"
+  },
+  {
+    "Name":"SRD-355CB1",
+    "Price":"129990",
+    "Manufacturer":"Skyworth"
+  },
+  {
+    "Name":"DNF-M295W188",
+    "Price":"149990",
+    "Manufacturer":"Ardesto"
+  },
+  {
+    "Name":"SJXE55PMBK",
+    "Price":"499990",
+    "Manufacturer":"SHARP"
+  }
+]
+}
